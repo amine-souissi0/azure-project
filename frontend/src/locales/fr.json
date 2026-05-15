@@ -1,0 +1,139 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "articles": "Articles",
+    "ask": "Conseiller IA",
+    "eid": "Campagne Aïd",
+    "donate": "Faire un don",
+    "login": "Connexion",
+    "register": "Commencer",
+    "logout": "Se déconnecter"
+  },
+  "hero": {
+    "badge": "Aïd al-Adha 1446 · Campagne en cours",
+    "title_line1": "Construisez votre patrimoine.",
+    "title_line2": "Restez fidèle à vos valeurs.",
+    "subtitle": "Un guide moderne et honnête de la finance islamique — vie sans riba, investissements éthiques et dons significatifs.",
+    "cta_learn": "Commencer à apprendre",
+    "cta_ask": "Consulter le Conseiller IA"
+  },
+  "stats": {
+    "articles": "Articles publiés",
+    "questions": "Questions répondues",
+    "raised": "Collecté pour le bien"
+  },
+  "finance": {
+    "section_title": "Comprendre la Finance Halal",
+    "section_subtitle": "Des conseils clairs et pratiques pour la vie financière quotidienne du musulman",
+    "riba_title": "Qu'est-ce que le Riba ?",
+    "riba_desc": "Le riba — intérêt ou usure — est interdit dans le Coran (2:275). Il inclut le paiement et la réception d'intérêts. Les prêts bancaires, les intérêts de cartes de crédit et les rendements de comptes épargne en font partie. Cette interdiction protège des cycles d'endettement et de l'exploitation économique.",
+    "riba_tag": "Fondamental",
+    "alt_title": "Alternatives Halal",
+    "alt_desc": "Les options de financement éthique incluent : la Murabaha (vente à prix majoré), la Musharaka (partenariat), l'Ijara (crédit-bail), le Takaful (assurance islamique) et les Sukuks (obligations islamiques). De nombreuses banques proposent désormais ces produits.",
+    "alt_tag": "Pratique",
+    "daily_title": "Votre Finance Quotidienne",
+    "daily_desc": "Les comptes courants sont généralement licites. Les cartes de crédit sont autorisées si le solde est remboursé intégralement chaque mois. Pour investir en bourse, excluez les secteurs haram. Préférez les alternatives islamiques quand elles existent. Consultez un érudit pour les cas complexes.",
+    "daily_tag": "Applicable"
+  },
+  "articles": {
+    "title": "Derniers articles",
+    "subtitle": "Connaissances pratiques pour la vie financière du musulman",
+    "read_more": "Lire l'article",
+    "view_all": "Voir tous les articles",
+    "min_read": "min de lecture",
+    "empty": "Aucun article publié pour l'instant. Revenez bientôt.",
+    "categories": {
+      "all": "Tout",
+      "riba": "Riba & Intérêts",
+      "halal_finance": "Finance Halal",
+      "sadaqah": "Sadaqah",
+      "eid": "Aïd al-Adha",
+      "tips": "Conseils quotidiens",
+      "general": "Général"
+    }
+  },
+  "ai_section": {
+    "title": "Votre Conseiller en Finance Islamique",
+    "subtitle": "Disponible 24h/24 en arabe, français et anglais",
+    "can_help_title": "Ce qu'il peut vous aider à comprendre :",
+    "can_help_1": "Le riba et ses alternatives halal",
+    "can_help_2": "L'investissement halal, le crédit immobilier et l'assurance",
+    "can_help_3": "La sadaqah, la zakat et le don caritatif",
+    "can_help_4": "Les questions de finance quotidienne",
+    "disclaimer": "Cet assistant fournit des conseils éducatifs uniquement et ne remplace pas l'avis d'un érudit qualifié.",
+    "cta": "Commencer une conversation"
+  },
+  "qa": {
+    "title": "Posez n'importe quelle question sur la finance halal",
+    "subtitle": "Obtenez des réponses claires et éducatives dans votre langue.",
+    "placeholder": "Ex : Un crédit immobilier avec intérêts est-il permis s'il n'y a pas d'alternative halal ?",
+    "send": "Envoyer",
+    "thinking": "Réflexion...",
+    "disclaimer": "Conseil éducatif uniquement. Pour les décisions personnelles, consultez un érudit islamique qualifié.",
+    "limit_notice": "{{count}} questions gratuites restantes aujourd'hui.",
+    "limit_reached": "Limite quotidienne atteinte. Inscrivez-vous pour un accès illimité.",
+    "empty_state": "Posez votre première question ci-dessus.",
+    "you": "Vous",
+    "advisor": "Conseiller Finance Halal",
+    "clear": "Effacer la conversation",
+    "new_chat": "Nouvelle conversation"
+  },
+  "eid": {
+    "badge": "Aïd al-Adha 1446",
+    "title": "Votre Qurbani, réalisé en toute transparence",
+    "subtitle": "Chaque sacrifice est vérifié, photographié et distribué aux familles dans le besoin dans 8 pays. Intention pure, traçabilité totale.",
+    "raised_of_goal": "collecté sur l'objectif",
+    "donors": "donateurs",
+    "days_left": "jours restants",
+    "donate_seventh": "Septième part",
+    "donate_half": "Demi part",
+    "donate_full": "Mouton complet",
+    "custom_amount": "Montant libre",
+    "cta": "Faire un don",
+    "guarantee": "100% de votre don parvient aux bénéficiaires. Entièrement vérifié et traçable.",
+    "countries": "Pays bénéficiaires : Algérie, Maroc, Tunisie, Mauritanie, Sénégal, Mali, Niger, Tchad"
+  },
+  "donate": {
+    "title": "Donner avec intention",
+    "subtitle": "Simple, sécurisé, transparent",
+    "amount_label": "Choisissez un montant",
+    "custom": "Autre montant",
+    "name_label": "Votre nom (optionnel)",
+    "name_placeholder": "Affiché dans la liste des donateurs",
+    "email_label": "Email pour le reçu",
+    "email_placeholder": "vous@exemple.com",
+    "anonymous": "Donner anonymement",
+    "pay_button": "Faire un don sécurisé",
+    "secure_note": "Sécurisé par Stripe. Vos informations de paiement ne transitent pas par nos serveurs.",
+    "select_campaign": "Choisir une campagne"
+  },
+  "faq": {
+    "title": "Questions fréquentes",
+    "subtitle": "Des réponses courtes et honnêtes aux questions les plus posées sur la finance halal",
+    "q1": "Qu'est-ce que le riba et pourquoi est-il interdit en Islam ?",
+    "a1": "Le riba signifie 'excès' ou 'augmentation' et désigne l'intérêt sur les prêts ou les dépôts. Il est explicitement interdit dans le Coran (2:275-279) car il génère de la richesse à partir de l'argent lui-même plutôt que d'une activité économique réelle, et conduit à l'exploitation. L'intérêt bancaire moderne — payé ou reçu — est considéré comme riba par la majorité des érudits contemporains.",
+    "q2": "Puis-je avoir un compte bancaire conventionnel ?",
+    "a2": "Un compte courant dans une banque conventionnelle est généralement considéré licite, car il ne génère pas d'intérêts. En revanche, les comptes épargne rémunérés sont problématiques. La plupart des érudits conseillent de refuser les intérêts ou de les donner à des œuvres caritatives — jamais de les conserver pour usage personnel.",
+    "q3": "Les cartes de crédit sont-elles permises ?",
+    "a3": "Les cartes de crédit sont licites si vous remboursez votre solde intégral chaque mois et ne payez jamais d'intérêts. La discipline est indispensable. Si vous payez régulièrement des intérêts, la plupart des érudits déconseillent leur utilisation et suggèrent de passer à une carte de débit ou une carte conforme à la charia.",
+    "q4": "Quelles sont les alternatives halal au crédit immobilier ?",
+    "a4": "Il existe plusieurs produits de financement immobilier halal : la Murabaha (la banque achète le bien et vous le revend avec une marge, en plusieurs versements), la Musharaka dégressive (copropriété dont votre part augmente progressivement) et l'Ijara (location avec option d'achat). Des banques islamiques et certaines banques conventionnelles proposent ces produits. Renseignez-vous sur les prestataires disponibles dans votre pays.",
+    "q5": "Les musulmans peuvent-ils investir en bourse ?",
+    "a5": "Oui, avec des critères de sélection. Évitez les entreprises dont l'activité principale concerne l'alcool, le tabac, les armes, les jeux d'argent, la viande porcine ou la finance à intérêt. Des outils de filtrage d'actions halal et des ETF conformes à la charia existent. Certains érudits recommandent aussi de donner en charité un pourcentage des dividendes égal à la part de revenus haram de l'entreprise.",
+    "q6": "Quelle est la différence entre la Zakat et la Sadaqah ?",
+    "a6": "La Zakat est l'aumône légale obligatoire — l'un des cinq piliers de l'Islam. Elle correspond à 2,5% de l'épargne accumulée au-dessus du seuil du nissab après une année lunaire. La Sadaqah est la charité volontaire, donnée à tout moment, en tout montant. Les deux purifient la richesse et renforcent les liens communautaires, mais la Zakat obéit à des règles précises et a des bénéficiaires définis."
+  },
+  "footer": {
+    "tagline": "Finance avec sens. Foi avec clarté.",
+    "learn": "Apprendre",
+    "give": "Donner",
+    "platform": "Plateforme",
+    "disclaimer": "Cette plateforme fournit des informations éducatives uniquement. Rien ici ne constitue une fatwa ou un substitut à l'avis d'un érudit islamique qualifié.",
+    "copyright": "© 2025 Dawah Platform. Conçu avec soin pour la Oumma."
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Quelque chose a mal tourné. Veuillez réessayer.",
+    "back": "Retour"
+  }
+}

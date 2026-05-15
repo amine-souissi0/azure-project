@@ -1,0 +1,139 @@
+{
+  "nav": {
+    "home": "Home",
+    "articles": "Articles",
+    "ask": "AI Advisor",
+    "eid": "Eid Campaign",
+    "donate": "Donate",
+    "login": "Sign In",
+    "register": "Get Started",
+    "logout": "Sign Out"
+  },
+  "hero": {
+    "badge": "Eid al-Adha 1446 · Campaign Live",
+    "title_line1": "Build wealth.",
+    "title_line2": "Stay true to your values.",
+    "subtitle": "A modern, honest guide to Islamic finance — riba-free living, ethical investments, and meaningful giving.",
+    "cta_learn": "Start Learning",
+    "cta_ask": "Ask the AI Advisor"
+  },
+  "stats": {
+    "articles": "Articles Published",
+    "questions": "Questions Answered",
+    "raised": "Raised for Good"
+  },
+  "finance": {
+    "section_title": "Understanding Halal Finance",
+    "section_subtitle": "Clear, practical guidance for everyday Muslim financial life",
+    "riba_title": "What is Riba?",
+    "riba_desc": "Riba — interest or usury — is prohibited in the Quran (2:275). It includes both paying and receiving interest. Modern bank loans, credit card interest, and savings account yields all fall under this. The prohibition protects against debt cycles and economic exploitation.",
+    "riba_tag": "Foundation",
+    "alt_title": "Halal Alternatives",
+    "alt_desc": "Ethical finance options include: Murabaha (cost-plus sale), Musharaka (profit-sharing partnership), Ijara (lease-to-own), Takaful (Islamic insurance), and Sukuk (Islamic bonds). Many banks now offer Sharia-compliant home and business financing.",
+    "alt_tag": "Practical",
+    "daily_title": "Your Daily Finance",
+    "daily_desc": "Checking accounts are generally permissible. Credit cards are allowed if paid in full monthly — never pay interest. For investing, screen stocks to exclude haram industries. Where halal alternatives exist, prefer them. Consult a scholar for complex situations.",
+    "daily_tag": "Actionable"
+  },
+  "articles": {
+    "title": "Latest Articles",
+    "subtitle": "Practical knowledge for Muslim financial life",
+    "read_more": "Read article",
+    "view_all": "View all articles",
+    "min_read": "min read",
+    "empty": "No articles published yet. Check back soon.",
+    "categories": {
+      "all": "All",
+      "riba": "Riba & Interest",
+      "halal_finance": "Halal Finance",
+      "sadaqah": "Sadaqah",
+      "eid": "Eid al-Adha",
+      "tips": "Daily Tips",
+      "general": "General"
+    }
+  },
+  "ai_section": {
+    "title": "Meet your Islamic Finance Advisor",
+    "subtitle": "Available 24/7 in Arabic, French, and English",
+    "can_help_title": "What it can help with:",
+    "can_help_1": "Understanding riba and halal alternatives",
+    "can_help_2": "Halal investing, mortgages, and insurance",
+    "can_help_3": "Sadaqah, zakat, and charitable giving",
+    "can_help_4": "Everyday finance questions",
+    "disclaimer": "This assistant provides educational guidance only and is not a substitute for qualified scholarly advice.",
+    "cta": "Start a Conversation"
+  },
+  "qa": {
+    "title": "Ask anything about halal finance",
+    "subtitle": "Get clear, educational answers in your language.",
+    "placeholder": "E.g., Is a mortgage with interest permissible if no halal alternative exists?",
+    "send": "Send",
+    "thinking": "Thinking...",
+    "disclaimer": "Educational guidance only. For personal decisions, consult a qualified Islamic scholar.",
+    "limit_notice": "{{count}} free questions remaining today.",
+    "limit_reached": "Daily limit reached. Register for unlimited access.",
+    "empty_state": "Ask your first question above.",
+    "you": "You",
+    "advisor": "Halal Finance Advisor",
+    "clear": "Clear conversation",
+    "new_chat": "New conversation"
+  },
+  "eid": {
+    "badge": "Eid al-Adha 1446",
+    "title": "Your Qurbani, fulfilled with full transparency",
+    "subtitle": "Every sacrifice is verified, photographed, and distributed to families in need across 8 countries. Pure niyyah, fully traced.",
+    "raised_of_goal": "raised of goal",
+    "donors": "donors",
+    "days_left": "days left",
+    "donate_seventh": "Seventh Share",
+    "donate_half": "Half Share",
+    "donate_full": "Full Sheep",
+    "custom_amount": "Custom amount",
+    "cta": "Donate Now",
+    "guarantee": "100% of your donation reaches beneficiaries. Fully traced and verified.",
+    "countries": "Beneficiary countries: Algeria, Morocco, Tunisia, Mauritania, Senegal, Mali, Niger, Chad"
+  },
+  "donate": {
+    "title": "Give with intention",
+    "subtitle": "Simple, secure, transparent",
+    "amount_label": "Choose an amount",
+    "custom": "Other",
+    "name_label": "Your name (optional)",
+    "name_placeholder": "Displayed on donor list",
+    "email_label": "Email for receipt",
+    "email_placeholder": "you@example.com",
+    "anonymous": "Donate anonymously",
+    "pay_button": "Donate Securely",
+    "secure_note": "Secured by Stripe. Your payment info never touches our servers.",
+    "select_campaign": "Select a campaign"
+  },
+  "faq": {
+    "title": "Common Questions",
+    "subtitle": "Short, honest answers to frequently asked questions about halal finance",
+    "q1": "What is riba and why is it prohibited in Islam?",
+    "a1": "Riba means 'excess' or 'increase' and refers to interest charged on loans or received on deposits. It is explicitly prohibited in the Quran (2:275-279) because it generates wealth from money itself rather than real economic activity, and leads to exploitation of the indebted. Modern bank interest — both paid and received — is considered riba by the majority of contemporary scholars.",
+    "q2": "Can I have a conventional bank account?",
+    "a2": "A basic checking or current account at a conventional bank is generally considered permissible, since you are not earning or paying interest. However, savings accounts that generate interest are more problematic. Most scholars advise either declining the interest or donating it to charity — not keeping it for personal use.",
+    "q3": "Are credit cards permissible?",
+    "a3": "Credit cards are permissible if you pay your full balance every month without exception and never incur interest charges. The contractual element of interest is problematic, so firm discipline is required. If you regularly pay interest, most scholars would advise avoiding them or switching to a debit card or Sharia-compliant card.",
+    "q4": "What are the halal alternatives to a mortgage?",
+    "a4": "Several halal home financing products exist: Murabaha (the bank buys the property and sells it to you at a higher price, paid in instalments), Diminishing Musharaka (co-ownership where your share increases over time), and Ijara (rent-to-own). Islamic banks and some conventional banks in Muslim-majority countries offer these products. Research providers in your country.",
+    "q5": "Can Muslims invest in the stock market?",
+    "a5": "Yes, with screening. You should avoid companies whose primary business involves alcohol, tobacco, weapons manufacturing, gambling, pork products, or conventional interest-based finance. Halal stock screening tools and Sharia-compliant ETFs are available. Many scholars also advise donating a small percentage of dividends proportional to the company's haram revenue.",
+    "q6": "What is the difference between Zakat and Sadaqah?",
+    "a6": "Zakat is the obligatory annual almsgiving — one of the Five Pillars of Islam. You must give 2.5% of your accumulated savings (above the nisab threshold) after one lunar year. Sadaqah is voluntary charity given at any time, in any amount, for any good cause. Both purify wealth and strengthen community bonds, but Zakat has specific rules and eligible recipients."
+  },
+  "footer": {
+    "tagline": "Finance with purpose. Faith with clarity.",
+    "learn": "Learn",
+    "give": "Give",
+    "platform": "Platform",
+    "disclaimer": "This platform provides educational information only. Nothing here constitutes a fatwa or a substitute for qualified Islamic scholarly advice.",
+    "copyright": "© 2025 Dawah Platform. Built with care for the Ummah."
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong. Please try again.",
+    "back": "Back"
+  }
+}
