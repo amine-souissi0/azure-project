@@ -77,7 +77,7 @@ export default function ArticleDetail() {
         style={{ direction: lang === "ar" ? "rtl" : "ltr" }}
       >
         {/* Render body as plain text — swap for markdown renderer when ready */}
-        {body.split("\n\n").map((para, i) => (
+        {body.split("\n\n").map((para: string, i: number) => (
           <p key={i}>{para}</p>
         ))}
       </article>
