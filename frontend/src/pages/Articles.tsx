@@ -59,7 +59,7 @@ export default function Articles() {
             <div key={i} className="bg-gray-100 rounded-2xl h-56 animate-pulse" />
           ))}
         </div>
-      ) : articles && articles.length > 0 ? (
+      ) : Array.isArray(articles) && articles.length > 0 ? (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {articles.map(
             (article: {

@@ -66,7 +66,7 @@ export default function Donate() {
 
         <form onSubmit={handleSubmit} className="bg-white rounded-2xl border border-gray-100 shadow-sm p-8 space-y-6">
           {/* Campaign selector */}
-          {campaigns && campaigns.length > 1 && (
+          {Array.isArray(campaigns) && campaigns.length > 1 && (
             <div>
               <label className="block text-sm font-semibold text-gray-700 mb-2">
                 {t("donate.select_campaign")}
@@ -76,7 +76,7 @@ export default function Donate() {
                 onChange={(e) => setCampaignId(e.target.value)}
                 className="w-full border border-gray-200 rounded-xl px-4 py-3 text-sm text-gray-800 focus:outline-none focus:border-forest-400 focus:ring-1 focus:ring-forest-400"
               >
-                {campaigns.map(
+                {Array.isArray(campaigns) && campaigns.map(
                   (c: { id: string; name_en: string }) => (
                     <option key={c.id} value={c.id}>{c.name_en}</option>
                   )
