@@ -20,9 +20,16 @@ app = FastAPI(
     lifespan=lifespan,
 )
 
+# Allow both localhost and Azure Static Web Apps
+allowed_origins = [
+    settings.frontend_url,
+    "https://happy-mushroom-09dcf5603.7.azurestaticapps.net",
+    "https://happy-mushroom-09dcf5603.6.azurestaticapps.net",
+]
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[settings.frontend_url],
+    allow_origins=allowed_origins,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
